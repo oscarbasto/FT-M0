@@ -1,0 +1,19 @@
+body{
+    background-color:#33FFD7 ;
+}
+.contenedor{
+
+    position: absolute;
+
+}
+
+h1{
+
+    color: red;
+}
+
+img{
+
+    height: 500px;
+    width: 500px;
+}
